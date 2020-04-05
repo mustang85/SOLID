@@ -3,4 +3,4 @@ Single Responsibility Principle - Принцип Единой Ответстве
 Open Close Principle - Принцип Открытия И Закрытия
 Liskov Substitution Principle - Принцип Подстановки Лискова
 Interface Segregation Principle - Принцип Разделения Интерфейса
-Dependency Inversion Principle
+Dependency Inversion Principle - Принцип Инверсии Зависимостей
