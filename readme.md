@@ -1,6 +1,13 @@
-SOLID - это набор принципов для построения масштабируемых систем.
-Single Responsibility Principle - Принцип Единой Ответственности
-Open Close Principle - Принцип Открытия И Закрытия
-Liskov Substitution Principle - Принцип Подстановки Лискова
-Interface Segregation Principle - Принцип Разделения Интерфейса
-Dependency Inversion Principle - Принцип Инверсии Зависимостей
+# SOLID - это набор принципов для построения масштабируемых систем.
+
+## Single Responsibility Principle - Принцип Единой Ответственности
+
+## Open Close Principle - Принцип Открытия И Закрытия
+- Какие-то классы должны быть открыты для расширений, но закрыты для модификации тоесть код спроектирован так, что даже привнося что-то 
+новое, не меняется старое
+
+## Liskov Substitution Principle - Принцип Подстановки Лискова
+
+## Interface Segregation Principle - Принцип Разделения Интерфейса
+
+## Dependency Inversion Principle - Принцип Инверсии Зависимостей
